@@ -1,2 +1,4 @@
-# notebook
-我的学习与读书笔记，笔记有部分内容来时互联网
+# 好记性不如烂笔头--随记
+<u>*Write it down, Learn more.*</u>
+
+
